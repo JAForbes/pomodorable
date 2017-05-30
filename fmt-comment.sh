@@ -1,0 +1,1 @@
+echo "$1" | xargs -I "{}" echo "{}" "|`date "+%Y-%m-%d %H:%M:%S"`|`pwd`" |  sed "s/|/\t/g"

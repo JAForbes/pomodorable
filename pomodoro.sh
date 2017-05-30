@@ -1,0 +1,1 @@
+~/pomodoro/start.sh 25 "Pomodoro done" "Go take a break for 5 mins"

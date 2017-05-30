@@ -1,0 +1,1 @@
+sh ~/pomodoro/fmt-comment.sh "$1" >> ~/pomodoro/db
